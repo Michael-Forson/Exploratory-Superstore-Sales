@@ -1,4 +1,4 @@
-#📊 Exploratory Data Analysis on Superstore Dataset
+📊 Exploratory Data Analysis on Superstore Dataset
 
 This project performs an Exploratory Data Analysis (EDA) on the popular Superstore dataset using Python. The analysis uncovers insights about customer segments, regional performance, sales distributions, and product category performance using both Matplotlib/Seaborn and interactive Plotly visualizations.
 📁 Dataset Overview
@@ -55,6 +55,9 @@ The Superstore dataset includes transactional data for a fictional retail chain.
     Grouped Sales by Category and Sub-Category.
 
     Created a Sunburst chart using Plotly to show hierarchical sales contribution.
+
+
+   
 📌 Conclusion
 
 This EDA highlights:
